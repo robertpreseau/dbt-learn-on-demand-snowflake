@@ -1,2 +1,2 @@
-# dbt-learn-on-demand-bigquery
-Learning dbt with BigQuery
+# dbt-learn-on-demand-snowflake
+Learning dbt with Snowflake
